@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Accenture do Brasil as a nodeJs backend developer.<br>🌱 I’m currently learning Typescript and AWS.<br>💬 Ask me about NodeJs, AWS and Serverless.<br>❤️ Hobbies: Games, Guitar and Tabletop RPG.<br>⚡ Fun fact: Former Biology Teacher.</p>
+<p align="left">🔭 I’m currently working on Accenture do Brasil as a nodeJs backend developer.<br>🌱 I’m currently learning DDD and Algorithms<br>💬 Ask me about Typescript, NodeJs, AWS and Serverless.<br>❤️ Hobbies: Games, Guitar and Tabletop RPG.<br>⚡ Fun fact: Former Biology Teacher.</p>
 
 ###
 
